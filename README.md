@@ -1,11 +1,13 @@
 # First run these commands on a terminal.
+
 ```bash
-chmod +x devsetup.sh
+chmod +x macdevsetup.sh
 ```
 
 Then, let it install.
+
 ```bash
-./devsetup.sh
+./macdevsetup.sh
 ```
 
 Once finished start coding away!
